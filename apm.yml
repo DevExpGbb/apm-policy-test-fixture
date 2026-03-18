@@ -1,0 +1,7 @@
+name: policy-test-fixture
+version: "1.0.0"
+description: "Integration test fixture for APM policy discovery"
+
+dependencies:
+  apm:
+    - microsoft/apm-sample-package
